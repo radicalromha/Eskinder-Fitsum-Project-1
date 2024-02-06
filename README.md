@@ -1,6 +1,6 @@
 # Eskinder-Fitsum-Project-1
 
-# Project #1
+## Project #1
 
 - Create three HTML pages, each with one desktop size page-scroll worth of content. One of the pages must be your professional resume. The themes of the other two are your choice.
 
@@ -18,7 +18,7 @@
 
 - Final Deliverable: You will receive a list on your Basecamp post of required fixes from the professor or TA. Fix your code and edit your original Basecamp post with the words "FINAL TURN IN"
 
-# Requirements
+## Requirements
 
 - NO CSS IN YOUR HTML FILE!!! This means no style at all. No spacing, no centering, no color, no italics. Just raw html.
 
